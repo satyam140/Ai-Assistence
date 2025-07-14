@@ -1,0 +1,80 @@
+Here's a simple JavaScript program that demonstrates some basic concepts:
+
+**Program:** To-Do List App
+```javascript
+// Define an array to store to-do items
+let todoList = [];
+
+// Function to add a new to-do item
+function addTodo() {
+    let item = prompt("Enter a new to-do item: ");
+    todoList.push(item);
+    console.log("To-Do List: ", todoList);
+}
+
+// Function to remove a to-do item
+function removeTodo() {
+    let index = prompt("Enter the index of the to-do item to remove (0-based): ");
+    index = parseInt(index);
+    if (index >= 0 && index < todoList.length) {
+        todoList.splice(index, 1);
+        console.log("To-Do List: ", todoList);
+    } else {
+        console.log("Invalid index");
+    }
+}
+
+// Function to display the to-do list
+function displayTodo() {
+    console.log("To-Do List: ", todoList);
+}
+
+// Main program
+while (true) {
+    console.log("To-Do List App");
+    console.log("1. Add a new to-do item");
+    console.log("2. Remove a to-do item");
+    console.log("3. Display the to-do list");
+    console.log("4. Quit");
+    let choice = prompt("Enter your choice (1/2/3/4): ");
+    switch (choice) {
+        case "1":
+            addTodo();
+            break;
+        case "2":
+            removeTodo();
+            break;
+        case "3":
+            displayTodo();
+            break;
+        case "4":
+            console.log("Goodbye!");
+            return;
+        default:
+            console.log("Invalid choice");
+    }
+}
+```
+**How to run the program:**
+
+1. Save this code in a file with a `.js` extension (e.g., `todo.js`).
+2. Open a terminal or command prompt and navigate to the directory where you saved the file.
+3. Type `node todo.js` to run the program (assuming you have Node.js installed).
+4. Follow the prompts to interact with the to-do list app.
+
+This program demonstrates basic concepts such as:
+
+* Arrays (e.g., `todoList`)
+* Functions (e.g., `addTodo`, `removeTodo`, `displayTodo`)
+* Conditional statements (e.g., `if`, `switch`)
+* User input (e.g., `prompt`)
+* Loops (e.g., `while`)
+
+Note: This program uses the `prompt` function to get user input, which only works in a browser or Node.js environment. If you're running this program in a different environment, you may need to modify the input mechanism.
+
+**Example Use Cases:**
+
+* Add a new to-do item: Enter `1` and type a new item when prompted.
+* Remove a to-do item: Enter `2` and type the index of the item to remove when prompted.
+* Display the to-do list: Enter `3` to see the current list of items.
+* Quit: Enter `4` to exit the program.

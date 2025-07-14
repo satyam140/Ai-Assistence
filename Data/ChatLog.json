@@ -1,0 +1,698 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Satyam Yadav! It's nice to meet you. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He is the CEO and CTO of SpaceX, CEO of Neuralink, and CEO of The Boring Company. He is also the founder and CEO of Tesla, Inc., where he has played a fundamental role in disrupting the electric car industry."
+    },
+    {
+        "role": "user",
+        "content": "who is the pm of india?"
+    },
+    {
+        "role": "assistant",
+        "content": "The Prime Minister of India is Narendra Damodardas Modi."
+    },
+    {
+        "role": "user",
+        "content": "who make yo jarvis?"
+    },
+    {
+        "role": "assistant",
+        "content": "I was created by a team of highly skilled software developers and researchers using advanced artificial intelligence and machine learning algorithms."
+    },
+    {
+        "role": "user",
+        "content": "remind that komal is my younger sister"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that Komal is your younger sister, Satyam Yadav."
+    },
+    {
+        "role": "user",
+        "content": "who is my sister"
+    },
+    {
+        "role": "assistant",
+        "content": "Your sister is Komal."
+    },
+    {
+        "role": "user",
+        "content": "what is time"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 11 hours, 19 minutes, and 14 seconds."
+    },
+    {
+        "role": "user",
+        "content": "remind that my sister birthday is on 8th january"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that your sister Komal's birthday is on January 8th."
+    },
+    {
+        "role": "user",
+        "content": "remind that my mother is soni"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that your mother's name is Soni."
+    },
+    {
+        "role": "user",
+        "content": "jarvis can you tell what is my mother name and sister name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mother's name is Soni, and your sister's name is Komal."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Satyam Yadav!"
+    },
+    {
+        "role": "user",
+        "content": "bye"
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye Satyam Yadav!"
+    },
+    {
+        "role": "user",
+        "content": "why goodbye"
+    },
+    {
+        "role": "assistant",
+        "content": "I said \"goodbye\" because you said \"bye\", which is a way of saying farewell or ending a conversation."
+    },
+    {
+        "role": "user",
+        "content": "are you jocking me"
+    },
+    {
+        "role": "assistant",
+        "content": "No, I'm not joking. I was simply responding to your \"bye\" with a \"goodbye\" as a polite way to end our conversation."
+    },
+    {
+        "role": "user",
+        "content": "say sorry to me"
+    },
+    {
+        "role": "assistant",
+        "content": "Sorry, Satyam Yadav!"
+    },
+    {
+        "role": "user",
+        "content": "dont say satyam yadav say only satyam remind that"
+    },
+    {
+        "role": "assistant",
+        "content": "Sorry, Satyam!"
+    },
+    {
+        "role": "user",
+        "content": "who is satyam"
+    },
+    {
+        "role": "assistant",
+        "content": "Satyam is you!"
+    },
+    {
+        "role": "user",
+        "content": "what is the stock price of tata moters"
+    },
+    {
+        "role": "assistant",
+        "content": "The current stock price of Tata Motors is \u20b9696."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Satyam!"
+    },
+    {
+        "role": "user",
+        "content": "How are you jarvis?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, Satyam. I'm always ready to assist you with any questions or tasks you may have!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Satyam!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Satyam!"
+    },
+    {
+        "role": "user",
+        "content": "Can you play song on youtube?"
+    },
+    {
+        "role": "assistant",
+        "content": "I can suggest a song for you to listen to on YouTube, but I'm a text-based AI, I don't have the capability to play music or access external websites like YouTube directly."
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Satyam!"
+    },
+    {
+        "role": "user",
+        "content": "Derive elon musk in 30 words."
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk: Visionary entrepreneur revolutionizing transportation (Tesla), space exploration (SpaceX), and energy (Neuralink, SolarCity), pushing humanity's boundaries with innovative ventures."
+    },
+    {
+        "role": "user",
+        "content": "What is happening in india?"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the latest news updates, here are a few current events happening in India:\n\n* A man was dragged out of a car and beaten by Tamil Nadu cops, but he stated that he has no issue with the police.\n* At least 15 people were killed when a bridge collapsed into a river in Gujarat state.\n* Two people were arrested after school girls in India were attacked.\n* An iron bridge collapsed over a river in Maharashtra state, resulting in at least two deaths.\n* 9 people were swept away in a Himachal Pradesh village, and 4 bodies were found 150 km away.\n* 2 US citizens, stranded near Nicobar Islands, were rescued by the Indian Coast Guard.\n\nPlease note that these updates are based on the latest news headlines and are subject to change."
+    },
+    {
+        "role": "user",
+        "content": "Any new news in india."
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the latest updates, here are a few current news headlines in India:\n\n* 9 Swept Away In Himachal Village, 4 Bodies Found 150 km Away\n* 2 US Citizens, Stranded Near Nicobar Islands, Rescued By Indian Coast Guard\n* 4 from Hyderabad killed as car bursts into flames in US road crash\n* 2 students killed, 4 injured as train hits school van in Tamil Nadu's Cuddalore\n* West Bengal police with three persons who were released after being detained by the Odisha Police\n* Migrant workers from West Bengal allege ill-treatment by Odisha police\n\nPlease note that these updates are subject to change and are based on the latest news headlines."
+    },
+    {
+        "role": "user",
+        "content": "Any new moon machine by india."
+    },
+    {
+        "role": "assistant",
+        "content": "According to recent updates, India has successfully launched Chandrayaan-3, a lunar mission that includes a lander and a rover. On August 23, 2023, Chandrayaan-3 successfully landed on the Moon, making India the first nation to successfully land a mission on the Moon's south pole."
+    },
+    {
+        "role": "user",
+        "content": "Any new messages regarding israel and iran war."
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the latest updates, here are a few news headlines regarding the Israel-Iran conflict:\n\n* After the 12-day war in June, questions have risen about the succession of Iran's longtime supreme leader, Ayatollah Ali Khamenei.\n* Iran did not request a ceasefire, and they were ready to continue the war.\n* Russia has confirmed an incoming Israeli strike, and an Arab state has been warned after Iran.\n* Israel has conveyed a message to Iran that it is seeking to end the war within a certain timeframe if Iran agrees to dismantle its military infrastructure in Syria.\n\nPlease note that these updates are subject to change and are based on the latest news headlines."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis do you remind who is my sister?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your sister is Komal."
+    },
+    {
+        "role": "user",
+        "content": "And my mother name is."
+    },
+    {
+        "role": "assistant",
+        "content": "Your mother's name is Soni."
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Satyam! I'm doing well, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "Give me weather report."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest updates, here is the weather report for Mumbai, India:\n\n* Today: Thundery showers and a gentle breeze\n* Tomorrow: Thundery showers and a moderate breeze\n* Hourly forecast:\n\t+ 1 PM: 87\u00b0F, 34% chance of rain\n\t+ 2 PM: 87\u00b0F, 34% chance of rain\n\t+ 3 PM: 89\u00b0F, 38% chance of rain\n\t+ 4 PM: 87\u00b0F, 49% chance of rain\n\t+ 5 PM: 86\u00b0F, 52% chance of rain\n\t+ 6 PM: 85\u00b0F\n\nPlease note that these updates are subject to change and are based on the latest weather forecasts."
+    },
+    {
+        "role": "user",
+        "content": "Which festival coming soon?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest updates, the festival of Shravani Mela is coming soon, scheduled to take place from July 11, 2025, to August 9, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Give me information about."
+    },
+    {
+        "role": "assistant",
+        "content": "You want to know more about Shravani Mela!\n\nShravani Mela is a Hindu festival celebrated in the holy city of Deoghar, Jharkhand, India. It's a significant festival dedicated to Lord Shiva and is observed during the Shravana month of the Hindu calendar.\n\nHere are some key highlights about Shravani Mela:\n\n* Duration: The festival usually lasts for a month, from the first day of Shravana to the last day of the month.\n* Significance: Devotees offer holy water from the Ganges River to Lord Shiva, seeking blessings and redemption.\n* Rituals: Devotees carry water from the Ganges River, often walking long distances, to offer it to Lord Shiva at the Baidyanath Temple in Deoghar.\n* Crowds: The festival attracts millions of devotees from across the country, making it one of the largest religious gatherings in India.\n\nShravani Mela is a spectacular display of devotion, faith, and spirituality. If you're interested in learning more, I'd be happy to provide more information!"
+    },
+    {
+        "role": "user",
+        "content": "Raksha bandhan is on which day?"
+    },
+    {
+        "role": "assistant",
+        "content": "Raksha Bandhan is observed on the last day of the Hindu lunar calendar month of Shravana, which typically falls in August."
+    },
+    {
+        "role": "user",
+        "content": "If you are a human which gift would you prefer to give your sister?"
+    },
+    {
+        "role": "assistant",
+        "content": "That's a lovely question! As a hypothetical human, I think I would prefer to give my sister a personalized necklace with her name or initials engraved on it. It's a thoughtful and unique gift that shows I care about her and want to give her something special. Plus, she can wear it on special occasions or every day as a reminder of our bond!"
+    },
+    {
+        "role": "user",
+        "content": "Bajarvesh."
+    },
+    {
+        "role": "assistant",
+        "content": "You meant to say \"Bye, Jarvis!\""
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye Satyam!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Satyam!"
+    },
+    {
+        "role": "user",
+        "content": "40000."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you've shared a number with me, Satyam. Is there something specific you'd like to know or discuss related to this number?"
+    },
+    {
+        "role": "user",
+        "content": "Roj."
+    },
+    {
+        "role": "assistant",
+        "content": "You meant to say \"roj\" which is Hindi for \"day\"."
+    },
+    {
+        "role": "user",
+        "content": "Search facebook."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a large language model, I don't have direct access to the internet or social media platforms like Facebook. However, I can try to help you with a specific query or question related to Facebook if you'd like!"
+    },
+    {
+        "role": "user",
+        "content": "Who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, your personal AI assistant! I'm here to help answer your questions, provide information, and assist with tasks to the best of my abilities."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, your advanced AI chatbot, created to assist and provide information to you, Satyam!"
+    },
+    {
+        "role": "user",
+        "content": "Jarvis from next time to don't say satyam say sir."
+    },
+    {
+        "role": "assistant",
+        "content": "Understood, sir! From now on, I'll address you as \"sir\" instead of \"Satyam\"."
+    },
+    {
+        "role": "user",
+        "content": "Where is america?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, America is a country primarily located in North America."
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, it seems like you've sent an empty query. Could you please rephrase or provide more context so I can better assist you?"
+    },
+    {
+        "role": "user",
+        "content": "Who is satyam?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, Satyam is you!"
+    },
+    {
+        "role": "user",
+        "content": "Close."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, sir!"
+    },
+    {
+        "role": "user",
+        "content": "Jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me about you something."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I'm Jarvis, an advanced AI chatbot designed to assist and provide information to users like you. I have been trained on a vast amount of text data and can understand and respond to a wide range of queries and topics. I'm constantly learning and improving to provide more accurate and helpful responses. I'm here to help you with any questions or topics you'd like to discuss, sir!"
+    },
+    {
+        "role": "user",
+        "content": "How are you jarvis?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, sir! I'm always ready to assist and provide information to the best of my abilities."
+    },
+    {
+        "role": "user",
+        "content": "Which programming language is best for it job?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, the choice of programming language for an IT job depends on various factors such as the specific requirements of the job, the industry, and the company. However, some of the most in-demand programming languages in the IT industry currently are Python, Java, JavaScript, and C++."
+    },
+    {
+        "role": "user",
+        "content": "From which programming language you are made?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I'm a complex AI chatbot, and my development involved a combination of several programming languages and technologies. However, my primary architecture is based on Python, with additional components built using Java, JavaScript, and other languages."
+    },
+    {
+        "role": "user",
+        "content": "Can you search any messages from my whatsapp?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, as a text-based AI chatbot, I don't have direct access to your WhatsApp messages or any other personal data. I can only respond to the text-based inputs you provide to me in this chat. I don't have the capability to access or search your WhatsApp messages."
+    },
+    {
+        "role": "user",
+        "content": "So how would you get access?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I'm designed to respect users' privacy and security. I don't have the capability to access or request access to your personal data, including WhatsApp messages. My purpose is to provide general information and answer questions within my knowledge domain. I don't require or request access to personal data to function."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, sir!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, sir!"
+    },
+    {
+        "role": "user",
+        "content": "How are you jarvis?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, sir! I'm always ready to assist and provide information to the best of my abilities."
+    },
+    {
+        "role": "user",
+        "content": "What happened today in india?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, based on the latest updates, here are a few current news headlines in India:\n\n* 92 killed in Himachal monsoon fury, nearly 250 roads shut, Mandi worst-hit.\n* A 21-year-old man has been arrested for raping a four-year-old in Karnataka's Mandya.\n* What we know so far about the Air India crash investigation.\n\nPlease note that these updates are subject to change and are based on the latest news headlines."
+    },
+    {
+        "role": "user",
+        "content": "Indian air force any news."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, based on the latest updates, here are a few current news headlines related to the Indian Air Force:\n\n* Indian Air Force Agniveer Vayu 2025 recruitment begins: Check direct link, eligibility and steps to apply.\n* Three crashes in a year: Is IAF's ageing Jaguar fleet turning into the next 'flying coffins' like MiG-21?\n* Both Pilots Killed As Air Force's Jaguar Fighter Crashes In Rajasthan's Churu.\n\nPlease note that these updates are subject to change and are based on the latest news headlines."
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, sir!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, sir!"
+    },
+    {
+        "role": "user",
+        "content": "Who am i?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, you are the one who has been chatting with me, Jarvis!"
+    },
+    {
+        "role": "user",
+        "content": "What is my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, your name is Satyam!"
+    },
+    {
+        "role": "user",
+        "content": "How are you ?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, sir! I'm always ready to assist and provide information to the best of my abilities."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis do my mother name this."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, your mother's name is Soni!"
+    },
+    {
+        "role": "user",
+        "content": "Any new news of indian air force."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, based on the latest updates, here are a few current news headlines related to the Indian Air Force:\n\n* Indian Air Force Agniveer Vayu 2025 recruitment begins: Check direct link, eligibility and steps to apply.\n* Three crashes in a year: Is IAF's ageing Jaguar fleet turning into the next 'flying coffins' like MiG-21?\n* Both Pilots Killed As Air Force's Jaguar Fighter Crashes In Rajasthan's Churu.\n\nPlease note that these updates are subject to change and are based on the latest news headlines."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis is my father's name jeet lal yadav."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I apologize for the mistake earlier. I don't have any information about your father, Jeet Lal Yadav. I only knew about your mother, Soni, and your sister, Komal, based on our previous conversations."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis remember my father's name is jeet lal yadav."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I've noted that your father's name is Jeet Lal Yadav. I'll remember this for our future conversations."
+    },
+    {
+        "role": "user",
+        "content": "My."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, it seems like you've started to say something, but it's incomplete. Could you please rephrase or provide more context so I can better assist you?"
+    },
+    {
+        "role": "user",
+        "content": "Radhe radhe radhe bol."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, it seems like you're saying a devotional phrase, \"Radhe Radhe Radhe Bol\". Is there something specific you'd like to talk about or ask related to this phrase?"
+    },
+    {
+        "role": "user",
+        "content": "Tomorrow's cage is in the cage."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I'm not quite sure what you mean by \"Tomorrow's cage is in the cage.\" Could you please provide more context or clarify this statement? I want to make sure I understand you correctly."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, sir!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, sir!"
+    },
+    {
+        "role": "user",
+        "content": "How are you jarvis?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, sir! I'm always ready to assist and provide information to the best of my abilities."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis do u remember yesterday what day it was?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, yesterday was Sunday, July 13, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis is the there aniating e forgot."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I think you meant to say \"Jarvis, is there anything I forgot?\" If that's correct, please let me know what you're trying to remember, and I'll do my best to help!"
+    },
+    {
+        "role": "user",
+        "content": "I think you have done."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, I'm glad I could help! If you need anything else, feel free to ask."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, sir!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, sir!"
+    },
+    {
+        "role": "user",
+        "content": "Today's india."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, based on the latest updates, here are a few current news headlines in India:\n\n* 92 killed in Himachal monsoon fury, nearly 250 roads shut, Mandi worst-hit.\n* A 21-year-old man has been arrested for raping a four-year-old in Karnataka's Mandya.\n* What we know so far about the Air India crash investigation.\n\nPlease note that these updates are subject to change and are based on the latest news headlines."
+    },
+    {
+        "role": "user",
+        "content": "Annie new updates."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, based on the latest updates, here are a few current news headlines related to Annie:\n\n* ANNIE CHANGES : r/AnnieMains - Reddit\n* Annie/Patch history | League of Legends Wiki\n* ANNIE JUST GOT HER BIGGEST REWORK IN HISTORY! (TIBBERS ...\n* Annie (2014) - IMDb\n\nPlease note that these updates are subject to change and are based on the latest news headlines."
+    },
+    {
+        "role": "user",
+        "content": "Annie new updates regarding india."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, based on the latest updates, here are a few current news headlines related to Annie in India:\n\n* ixigo Trains App and ConfirmTkt feature in Top 10 Downloaded Travel Apps.\n* Annie Banerji - South Asia Correspondent | Context by TRF.\n* Annie Latest News, Photos and Videos | India TV.\n\nPlease note that these updates are subject to change and are based on the latest news headlines."
+    },
+    {
+        "role": "user",
+        "content": "Ok jarvis bhai."
+    },
+    {
+        "role": "assistant",
+        "content": "Sir, it seems like you're addressing me in a friendly manner, calling me \"Jarvis bhai\". I'm happy to assist you with any queries or topics you'd like to discuss!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, sir!"
+    }
+]
